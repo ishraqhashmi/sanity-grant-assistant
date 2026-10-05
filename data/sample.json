@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "sample-proposal-1",
+    "_type": "proposal",
+    "title": "Community Learning Hubs for Rural Youth",
+    "organisation": "Open Horizons Foundation",
+    "programmeArea": "Education and social cohesion",
+    "region": "Punjab, Pakistan",
+    "problemStatement": "Rural young people in underserved districts have limited access to safe learning spaces, digital skills and community dialogue opportunities.",
+    "objectives": ["Expand access to community learning spaces", "Improve digital literacy", "Create regular youth dialogue sessions"],
+    "activities": ["Equip community learning hubs", "Train facilitators", "Run digital literacy cohorts", "Hold monthly dialogue sessions"],
+    "beneficiaries": "2,400 young people aged 15–24",
+    "budgetTotal": 185000,
+    "outcomes": ["Improved digital skills", "Higher participation in community activities", "Stronger links between youth groups and local institutions"],
+    "status": "approved"
+  },
+  {
+    "_id": "sample-proposal-2",
+    "_type": "proposal",
+    "title": "Women-Led Climate Resilience Cooperatives",
+    "organisation": "Open Horizons Foundation",
+    "programmeArea": "Climate resilience and livelihoods",
+    "region": "Sindh, Pakistan",
+    "problemStatement": "Small farming households face rising climate and water pressures while women have limited access to productive assets and local decision-making.",
+    "objectives": ["Support women-led producer groups", "Improve climate-resilient farming practices", "Strengthen local water planning"],
+    "activities": ["Form cooperative groups", "Deliver farmer field sessions", "Map local water risks", "Provide small productive grants"],
+    "beneficiaries": "1,200 women farmers and household members",
+    "budgetTotal": 240000,
+    "outcomes": ["Adoption of water-saving practices", "Increased household resilience", "Greater participation of women in local planning"],
+    "status": "submitted"
+  },
+  {
+    "_id": "sample-concept-1",
+    "_type": "conceptNote",
+    "title": "Youth Digital Peace Labs",
+    "organisation": "Open Horizons Foundation",
+    "programmeArea": "Peace education and digital citizenship",
+    "region": "Azad Jammu and Kashmir",
+    "summary": "A network of youth-led learning sessions combining digital literacy, media literacy and community dialogue.",
+    "targetGroups": ["Youth", "Teachers", "Community facilitators"],
+    "estimatedBudget": 95000
+  },
+  {
+    "_id": "sample-outcome-1",
+    "_type": "outcome",
+    "title": "Digital skills cohort outcome",
+    "programmeArea": "Education and social cohesion",
+    "indicator": "Participants completing practical digital skills training",
+    "baseline": "Limited access to structured digital training",
+    "target": "80% of enrolled participants complete the core modules",
+    "evidence": "Attendance records and pre/post skills assessment"
+  },
+  {
+    "_id": "sample-budget-1",
+    "_type": "budget",
+    "title": "Community Learning Hubs Budget",
+    "programmeArea": "Education and social cohesion",
+    "currency": "USD",
+    "total": 185000,
+    "lines": [
+      {"category": "Training", "amount": 42000},
+      {"category": "Equipment", "amount": 58000},
+      {"category": "Facilitation", "amount": 36000},
+      {"category": "Monitoring and evaluation", "amount": 18000},
+      {"category": "Administration", "amount": 31000}
+    ]
+  }
+]

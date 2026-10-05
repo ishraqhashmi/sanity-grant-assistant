@@ -1,0 +1,22 @@
+{
+  "name": "sanity-grant-writing-assistant",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node app/server.js",
+    "start": "node app/server.js",
+    "studio": "sanity dev",
+    "studio:deploy": "sanity deploy"
+  },
+  "dependencies": {
+    "@sanity/client": "^7.8.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "sanity": "^5.1.0",
+    "@sanity/vision": "^5.1.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}
