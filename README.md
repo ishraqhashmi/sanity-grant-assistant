@@ -40,7 +40,7 @@ To connect a real Sanity project, copy `.env.example` to `.env.local` and add th
 
 
 
-Yes. I’ve saved both active tasks separately so we can pick them up tomorrow without losing the thread.
+ 
 1. Sanity — priority technical project
 “Building an AI Grant Writing Assistant with Sanity”
 * Continue from npm install 
